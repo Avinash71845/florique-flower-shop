@@ -83,7 +83,7 @@ section{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background:url(images/tulip2.jpg); 
+    background:url(tulip2.jpg); 
      background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -526,4 +526,5 @@ section{
     font-weight: 500;
     outline: none;
     border: none;
+
 }
